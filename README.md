@@ -1,6 +1,6 @@
 <div align="center"><p>
   
-An Add-on that adds rain to your model
+An Add-on I created that adds rain to your model
 
 ## Description and Panel
 ![Properties](https://github.com/user-attachments/assets/f19bb35f-e949-4d6a-9bb4-0c7c1ab88c3e)
