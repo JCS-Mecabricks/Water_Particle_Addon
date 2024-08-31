@@ -7,7 +7,7 @@ An Add-on I created that adds rain to your model
 
 ![Screenshot 2024-08-31 110100](https://github.com/user-attachments/assets/4daa5840-6175-4108-a08a-76b3850b0af0)
 
-![untitled](https://github.com/user-attachments/assets/e25a4eb3-8387-4d0c-a8cc-a28ce6ce8424)
+![Screenshot 2024-08-31 110132](https://github.com/user-attachments/assets/cb124fbb-7dbb-46fb-85e9-befbe8c994ab)
 
 
 **One push of a button and you have a new world**
